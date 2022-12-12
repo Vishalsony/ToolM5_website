@@ -53,6 +53,11 @@
     width: 15%;
     font-size: 0.8em;
 }
+.ico1 
+{
+    display:none;
+    width:2em;
+}
 .b1
 {
     width: 75%;
@@ -481,14 +486,14 @@
 }
 .Main
 {
-    height: 23em;
+    height: 27em;
     display: flex;
     justify-content: center;
     /* background-color: blue; */
 }
 .main_sec
 {
-    height: 22em;
+    height: 27em;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -498,7 +503,7 @@
 .go 
 {
     width: 95%;
-    height: 22em;
+    height: 26em;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -508,7 +513,7 @@
 {
     background-color: yellowgreen;
     width: 100%;
-    height: 21em;
+    height: 26em;
     border-radius: 16px;
     border: 1px solid;
     display: flex;
@@ -518,7 +523,7 @@
 .prod1
 {
     width: 32%;
-    height: 19em;
+    height: 23em;
     background-color: white;
     border-radius: 21px;
 }
@@ -527,11 +532,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 11em;
+    height: 15em;
 }
 .vie1 img
 {
-    height: 11em;
+    height: 15em;
     width: 100%;
     border-top-right-radius: 21px;
     border-top-left-radius: 21px;
@@ -638,6 +643,7 @@
     display: flex;
     justify-content: flex-end;
 }
+
 .sti1
 {
     display: flex;
@@ -654,6 +660,10 @@
     align-items: flex-end;
     width: 100%;
     height: 5em;
+}
+.sti1 h4 
+{
+    color:grey;
 }
 
 .amo1
@@ -731,14 +741,14 @@
 
 .Main1
 {
-    height: 23em;
+    height: 30em;
     display: flex;
     justify-content: center;
     /* background-color: blue; */
 }
 .main_sec1
 {
-    height: 22em;
+    height: 30em;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -748,7 +758,7 @@
 .go1
 {
     width: 100%;
-    height: 22em;
+    height: 30em;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -758,7 +768,7 @@
 {
     background-color: yellowgreen;
     width: 100%;
-    height: 21em;
+    height: 29em;
     border-radius: 16px;
     border: 1px solid;
     display: flex;
@@ -768,7 +778,7 @@
 .prod1_1
 {
     width: 32%;
-    height: 20em;
+    height: 24em;
     background-color: white;
     border-radius: 21px;
 }
@@ -777,11 +787,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 11em;
+    height: 15em;
 }
 .vie1_1 img
 {
-    height: 11em;
+    height: 15em;
     width: 100%;
     border-top-right-radius: 21px;
     border-top-left-radius: 21px;
@@ -980,3 +990,1501 @@
     
     justify-content: flex-end;
 } 
+.vish2
+{
+    height: 31em;
+    /* background-color: yellow; */
+}
+.select2 
+{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    /* background-color: yellow; */
+    height:30em;
+    /* background-color: violet; */
+}
+.sel2 
+{
+    height:28em;
+    display: flex;
+    justify-content: center;
+    /* background-color: indianred; */
+}
+.sele2
+{
+    
+    width: 77%;
+    /* display: flex; */
+    height: 28em;
+    background-color: #ece8e9;
+    border-radius: 26px;
+}
+.mod2 
+{
+    
+    height: 28em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.mod2 img 
+{
+    width: 100%;
+    border: 1px solid;
+    border-radius: 25px;
+    height: 24em;
+}
+.pm 
+{
+    width: 38%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sti_3 
+{
+    width: 45%;
+    height:17em;
+    /* display: flex;
+    justify-content: flex-start; */
+}
+
+.sti2
+{
+    display: flex;
+    flex-wrap: wrap;
+    height: 8em;
+    width: 85%;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.sti2 h3 
+{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    width: 100%;
+    height: 5em;
+}
+.sti2 h4 
+{
+    color:grey;
+}
+
+.amo2
+{
+    /* background-color: red; */
+    width: 17%;
+}
+
+.amount2
+{
+    height: 3em;
+    font-size: 3em;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+
+.cu
+{
+    width: 100%;
+    display: flex;
+    height: 5.5em;
+    align-items: flex-end;
+    justify-content: flex-start;
+
+}
+.ct1 
+{
+    height: 2.2em;
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 21px;
+    background-color: yellowgreen;
+}
+.vv1 
+{
+    color:black;
+}
+.t {
+    color:grey;
+}
+.hop1 
+{
+    height: 15em;
+    /* background-color: yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ho1 
+{
+    height:8em;
+}
+.ho2
+{
+    /* background-color: green; */
+    height: 2em;
+    font-size: 2.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.how3
+{
+    height: 5em;
+    display: flex;
+    justify-content: center;
+}
+.pk
+{
+    width: 100%;
+    color:grey;
+}
+/* <i class="fa-regular fa-envelope"></i> */
+/* <i class="fa-regular fa-mobile"></i> */
+.mobile1 
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+.po1 
+{
+    width: 33%;
+    background-color: #ece8e9;
+    height: 14em;
+    border-radius: 22px;
+}
+.po2 
+{
+    height:14em;
+}
+.EM 
+{
+    font-size: 4em;
+    display: flex;
+    height: 1.6em;
+    justify-content: center;
+    align-items: flex-end;
+}
+.em 
+{
+    height: 1.5em;
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+}
+.em2 
+{
+    height: 1.5em;
+    display: flex;
+    justify-content: center;
+}
+.em3 
+{
+    color:grey;
+    height: 1.5em;
+    display: flex;
+    justify-content: center;
+}
+.fe
+{
+    /* background-color: yellow; */
+    height: 4em;
+    font-size: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.SEND 
+{
+    height: 30em;
+    /* background-color: yellowgreen; */
+}
+.send 
+{
+    height: 30em;
+    /* background-color: wheat; */
+    display: flex;
+    justify-content: center;
+    align-items:center
+}
+.send1 
+{
+    height: 24em;
+    width: 70%;
+    background-color: yellowgreen;
+    border-radius: 29px;
+}
+.na 
+{
+    display: flex;
+    justify-content: space-evenly;
+    height: 5em;
+    align-items: center;
+}
+.na input
+{
+    height: 2em;
+    width: 37%;
+    border-radius: 5px;
+    border: 1px solid;
+}
+.YOUR 
+{
+    height: 4em;
+}
+.your 
+{
+    height: 3em;
+    display: flex;
+    justify-content: center;
+}
+.your input 
+{
+    height: 2.4em;
+    width: 82%;
+    border-radius: 6px;
+    border: 1px solid;
+}
+.lk 
+{
+    display: flex;
+    justify-content: center;
+}
+.lk textarea
+{
+    width: 81%;
+    border-radius: 6px;
+    border:1px solid;
+    padding-top:7px;
+}
+.sebu 
+{
+    height: 5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sebu1 
+{
+    width: 20%;
+    height: 2.5em;
+    border: 1px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 29px;
+}
+.map iframe
+{
+    width:100%;
+}
+.footer 
+{
+    height: 4em;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+@media (max-width:2570px) and (min-width:2500px)
+{
+    .nav 
+    {
+        height:7em;
+    }
+    .Logo1 
+    {
+        width:37%;
+    }
+    .logo 
+    {
+        
+        font-size:2.5em;
+    }
+    .ul li 
+    {
+        font-size:1.5em;
+    }
+    .u1 
+    {
+        width:53%;
+    }
+    .pf1 
+    {
+        width:41%;
+    }
+    .go 
+    {
+        width:87%;
+    }
+    .print
+    {
+        width:50%;
+    }
+    .print1 
+    {
+        width:56%;
+    }
+    .zt1 
+    {
+        width:23%;
+        
+    }
+    .zt 
+    {
+        width:100%;
+        justify-content: center;
+    }
+    .your input 
+    {
+        width:83%;
+    }
+    .lk textarea 
+    {
+        width: 83%;
+    border-radius: 14px;
+    }
+}
+
+@media (max-width:1450px) and (min-width:1400px)
+{
+    .print1 
+    {
+        width:78%;
+    }
+    .your input 
+    {
+        width: 83%;
+        border-radius: 6px;
+    }
+    .lk textarea 
+    {
+        width:83%;
+        border-radius: 6px;
+    }
+}
+@media (max-width:1035px) and (min-width:1010px)
+{
+    .print
+    {
+        width:90%;
+    }
+    .print1 
+    {
+        width:92%;
+    }
+    .st1 
+    {
+        width: 68%;
+    }
+    .zt1 
+    {
+        width:37%;
+    }
+    .ct1 
+    {
+        width:45%;
+    }
+    .your input 
+    {
+        width:83%;
+    }
+    .lk textarea 
+    {
+        width:83%;
+    }
+}
+ 
+@media (max-width:775px) and (min-width:750px)
+{
+    .logo{
+        font-size: 1.5em;
+        width:100%;
+    }
+    .ul li 
+    {
+        font-size:0.8em;
+    }
+    .b1 
+    {
+        font-size:1em;
+    }
+    .line1 h3 
+    {
+        font-size:2.5em;
+    }
+    .line2 h1 {
+        font-size: 4em;
+    }
+    .button2 h4 
+    {
+        font-size:1em;
+    }
+    .image1 i 
+    {
+        font-size:2em;
+    }
+    .v1 h4 
+    {
+        font-size:1em;
+    }
+    .work1 
+    {
+        width:37%;
+    }
+    .u1
+    {
+        width:100%;
+    } 
+    .u1 h2 
+    {
+        font-size: 1.6em;
+    }
+    .buy1 
+    {
+        width:91%;
+    }
+    .buy1 h4 
+    {
+        font-size:0.9em;
+    }
+    .ru 
+    {
+        width:40%;
+    }
+    .bt1 
+    {
+        height:2.4em;
+    }
+    .pt1 
+    {
+        width:50%;
+    }
+    .sub
+    {
+        font-size:1em;
+    }
+    .sub h4 
+    {
+        font-size: 0.9em;
+    }
+    .mu 
+    {
+        width:38%;
+    }
+    .gt
+    {
+        font-size:0.8em;
+    } 
+    .pf1 
+    {
+        width:55%;
+    }
+    .jt1 
+    {
+        width: 93%;
+    }
+    .print 
+    {
+        width:100%;
+    }
+    .print1 
+    {
+        height:6em;
+        width:100%;
+    }
+    .pv1 
+    {
+        font-size:0.9em;
+    }
+    .st1 
+    {
+        height: 1.8em;
+        width: 80%;
+        font-size: 0.9em;
+    }
+    .pv2 h4 
+    {
+        font-size: 0.7em;
+    }
+    .zt1 
+    {
+        width:50%;
+    }
+    .zt 
+    {
+        justify-content: center;
+    }
+    .sti2 
+    {
+        height:11em;
+    }
+    .vv1 
+    {
+        height:1em;
+    }
+    .ct1 
+    {
+        width:59%;
+    }
+    .your input 
+    {
+        width:83%;
+    }
+    .lk textarea 
+    {
+        width:83%;
+    }
+    .pv 
+    {
+        font-size: 0.86em;
+    }
+
+
+}
+
+@media (max-width:430px) and (min-width:400px)
+{
+    .Logo1
+    {
+        display: flex;
+    justify-content: center;
+    width: 48%;
+    height: 6em;
+    }
+    .logo
+    {
+        font-size: 2em;
+        height: 3em;
+        width: 80%;
+        justify-content: flex-start;
+        ;
+    }
+    .ul 
+    {
+        display: none;
+    }
+    .button1 
+    {
+        display: none;
+    }
+    .ico1 
+    {
+        display: flex;
+        width: 48%;
+    }
+    .ic1 
+    {
+        width: 84%;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        height: 6em;
+    }
+    .ic1 i 
+    {
+        font-size: 2em;
+    }
+    .display
+    {
+        width:94%;
+    }
+    .line1 
+    {
+        height: 10.1em;
+    }
+    .line1 h3 
+    {
+        font-size:2em;
+    }
+    .line2 h1 {
+        font-size: 3em;
+    }
+    .button2 
+    {
+        width:33%;
+    }
+    .button2 h4 {
+        font-size: 1em;
+    }
+    .lo1 h4 
+    {
+        font-size: 0.7em;
+    }
+    .mod 
+    {
+        display: block;
+        height:74em;
+    }
+    .fun 
+    {
+        display: block;
+        width:100%;
+    }
+    .se1 
+    {
+        display: block;
+        width:100%;
+        height:18em;
+    }
+    .image1 
+    {
+        width:100%;
+    }
+    .image1 i
+    {
+        font-size:5em;
+    }
+    .v1 h4 
+    {
+        font-size: 1.5em;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+
+    .v1 h5 
+    {
+        font-size: 1.5em;
+        display: flex;
+        justify-content: center;
+    }
+    .p1 
+    {
+        height: 81em;
+    }
+    .t1 
+    {
+        height:76em;
+    }
+    .work 
+    {
+        height:5em;
+    }
+    .work1 
+    {
+        width:100%;
+        align-items: center;
+    }
+    .block 
+    {
+        display: flex;
+        flex-wrap: wrap;
+        height:64em;
+    }
+    .block1 
+    {
+        width:100%;
+        height:29em;
+    }
+    .men 
+    {
+        height:18em;
+    }
+    .men img 
+    {
+        height:15em;
+    }
+    .u1 
+    {
+       width:100%;
+        height: 2em;
+    }
+    .u1 h2 
+    {
+        font-size: 1em;
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    } 
+    .Bl 
+    {
+        height:70em;
+    }
+   
+    .kt {
+        display:block;
+        width:100%;
+    }
+    .kt1 
+    {
+        width:100%;
+        justify-content: center;
+    }
+    .buy1 
+    {
+        width: 88%;
+    }
+    .ru 
+    {
+        width:100%;
+        justify-content: center;
+    }
+    .bt1 
+    {
+        width:90%;
+    }
+    .block2 
+    {
+        width:100%;
+    }
+    .pa1{
+        height:19em;
+    }
+    .sub h4 
+    {
+        font-size: 0.9em;
+    }
+    .mu 
+    {
+        width: 41%;
+    }
+    .ab 
+    {
+        height:19em;
+        display: block;
+    }
+    .us1 
+    {
+        height:8em;
+    }
+    .us2 
+    {
+        border-right: 0px ;
+        height:2.4em;
+        
+    }
+    .pin 
+    {
+        width: 79%;
+        height: 10em;
+          margin-left: 32px;
+    padding-left: 17px;
+        border-left:1px solid;
+    }
+    .prof 
+    {
+        height:86em;
+    }
+    .Main 
+    {
+        height:74em;
+    }
+    .pf1 
+    {
+        width:100%;
+    }
+    .main_sec 
+    {
+        width:100%;
+        height:75em;
+    }
+    .go 
+    {
+        height:74em;
+    }
+    .gre 
+    {
+        height:73em;
+        display: block;
+    }
+    .prod1 
+    {
+        width: 86%;
+    margin-left: 21px;
+    margin-top: 17px;
+    margin-bottom: 17px;
+    }
+    .shop1 
+    {
+        display:block;
+    }
+    .sho3 
+    {
+        height:7em;
+    }
+    .vish 
+    {
+        height:63em;
+    }
+    .select 
+    {
+        height:63em;
+    }
+    .sele 
+    {
+        height:62em;
+    }
+    .sele1 
+    {
+        height:57em;
+    }
+    .mod1 
+    {
+        height:51em;
+        display:block;
+    }
+    .mod1 img 
+    {
+        width:100%;
+    }
+    .sti 
+    {
+        width:88%;
+    }
+    .amo1 
+    {
+        width:100%;
+    }
+    .team1 h4 
+    {
+        justify-content: center;
+    }
+    .team1 h5 
+    {
+        justify-content: center;
+    }
+    .Main1
+    {
+        height:82em;
+    }
+    /* .pf1 
+    {
+        width:100%;
+    } */
+    .main_sec1 
+    {
+        width:100%;
+        height:81em;
+    }
+    .go1 
+    {
+        height:81em;
+        justify-content: center;
+    }
+    .gre1
+    {
+        height:80em;
+
+        width: 94%;
+        display: block;
+    }
+    .prod1_1 
+    {
+        width: 86%;
+        margin-left: 27px;
+    margin-top: 17px;
+    margin-bottom: 17px;
+    }
+    .shop1_1 
+    {
+        display:block;
+    }
+    .sho3 
+    {
+        height:7em;
+    }
+    .Main2
+    {
+        height:72em;
+    }
+    /* .pf1 
+    {
+        width:100%;
+    } */
+    .main_sec2 
+    {
+        width:100%;
+        height:81em;
+    }
+    .go2 
+    {
+        height:81em;
+        justify-content: center;
+    }
+    .gre2
+    {
+        height:80em;
+
+        width: 94%;
+        display: block;
+    }
+    .prod1_2
+    {
+        width: 86%;
+        margin-left: 27px;
+    margin-top: 17px;
+    margin-bottom: 17px;
+    }
+    .vish2 
+    {
+        height:60em;
+    }
+    .select2 
+    {
+        height:59em;
+    }
+    .sel2 
+    {
+        height:58em;
+    }
+    .sele2 
+    {
+        height:57em;
+        width:92%;
+    }
+    .mod2 
+    {
+        height:57em;
+        display: block;
+    }
+    .sti_3 
+    {
+        height:30em;
+        width:100%;
+    }
+    .sti2 
+    {
+        height:15em;
+        justify-content: center;
+    align-items: center;
+    width: 100%;
+    }
+    .sti2 h4 
+    {
+        width:77%;
+    }
+    .vv1 
+    {
+        padding-left: 158px;
+    }
+    .cu 
+    {
+        justify-content: center;
+    }
+    .ct1 
+    {
+        width:44%;
+    }
+    .ct 
+    {
+        width:67%;
+    }
+    .pm 
+    {
+        width:100%;
+    }
+    .mod2 img 
+    {
+        width:80%;
+    }
+    .pk 
+    {
+        font-size:0.9em;
+    }
+    .mobile 
+    {
+        height: 30em;
+    }
+    .mobile1 
+    {
+        display:block;
+        height:30em;
+    }
+    .po1 
+    {
+        width: 83%;
+        margin-left: 36px;
+        margin-bottom: 22px;
+    }
+    .sebu1 
+    {
+        width:39%;
+    }
+
+}
+@media (max-width:380px) and (min-width:350px)
+{
+    .Logo1
+    {
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 48%;
+    height: 6em;
+    }
+    .logo
+    {
+        font-size: 2em;
+        height: 3em;
+        justify-content: flex-start;
+    padding-left: 18px;
+        ;
+    }
+    .ul 
+    {
+        display: none;
+    }
+    .button1 
+    {
+        display: none;
+    }
+    .ico1 
+    {
+        display: flex;
+        width: 48%;
+    }
+    .ic1 
+    {
+        width: 84%;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        height: 6em;
+    }
+    .ic1 i 
+    {
+        font-size: 2em;
+    }
+    .display
+    {
+        width:94%;
+    }
+    .line1 
+    {
+        height: 10.1em;
+    }
+    .line1 h3 
+    {
+        font-size:2em;
+    }
+    .line2 h1 {
+        font-size: 3em;
+    }
+    .button2 
+    {
+        width:33%;
+    }
+    .button2 h4 {
+        font-size: 1em;
+    }
+    .lo1 h4 
+    {
+        font-size: 0.5em;
+    }
+    .mod 
+    {
+        display: block;
+        height:74em;
+    }
+    .fun 
+    {
+        display: block;
+        width:100%;
+    }
+    .se1 
+    {
+        display: block;
+        width:100%;
+        height:18em;
+    }
+    .image1 
+    {
+        width:100%;
+    }
+    .image1 i
+    {
+        font-size:5em;
+    }
+    .v1 h4 
+    {
+        font-size: 1.5em;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+
+    .v1 h5 
+    {
+        font-size: 1.5em;
+        display: flex;
+        justify-content: center;
+    }
+    .p1 
+    {
+        height: 81em;
+    }
+    .t1 
+    {
+        height:76em;
+    }
+    .work 
+    {
+        height:5em;
+    }
+    .work1 
+    {
+        width:100%;
+        align-items: center;
+    }
+    .block 
+    {
+        display: flex;
+        flex-wrap: wrap;
+        height:64em;
+    }
+    .block1 
+    {
+        width:100%;
+        height:29em;
+    }
+    .men 
+    {
+        height:18em;
+    }
+    .men img 
+    {
+        height:15em;
+    }
+    .u1 
+    {
+       width:100%;
+        height: 2em;
+    }
+    .u1 h2 
+    {
+        font-size: 1em;
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    } 
+    .Bl 
+    {
+        height:70em;
+    }
+   
+    .kt {
+        display:block;
+        width:100%;
+    }
+    .kt1 
+    {
+        width:100%;
+        justify-content: center;
+    }
+    .buy1 
+    {
+        width: 88%;
+    }
+    .ru 
+    {
+        width:100%;
+        justify-content: center;
+    }
+    .bt1 
+    {
+        width:90%;
+    }
+    .block2 
+    {
+        width:100%;
+    }
+    .pa1{
+        height:19em;
+    }
+    .sub h4 
+    {
+        font-size: 0.6em;
+    }
+    .mu 
+    {
+        width: 41%;
+    }
+    .ab 
+    {
+        height:19em;
+        display: block;
+    }
+    .us1 
+    {
+        height:8em;
+    }
+    .us2 
+    {
+        border-right: 0px ;
+        height:2.4em;
+        
+    }
+    .pin 
+    {
+        width: 79%;
+        height: 10em;
+          margin-left: 32px;
+    padding-left: 17px;
+        border-left:1px solid;
+    }
+    .prof 
+    {
+        height:86em;
+    }
+    .Main 
+    {
+        height:74em;
+    }
+    .pf1 
+    {
+        width:100%;
+    }
+    .main_sec 
+    {
+        width:100%;
+        height:75em;
+    }
+    .go 
+    {
+        height:74em;
+    }
+    .gre 
+    {
+        height:73em;
+        display: block;
+    }
+    .prod1 
+    {
+        width: 86%;
+    margin-left: 21px;
+    margin-top: 17px;
+    margin-bottom: 17px;
+    }
+    .shop1 
+    {
+        display:block;
+    }
+    .sho3 
+    {
+        height:7em;
+    }
+    .vish 
+    {
+        height:63em;
+    }
+    .select 
+    {
+        height:63em;
+    }
+    .sele 
+    {
+        height:62em;
+    }
+    .sele1 
+    {
+        height:57em;
+    }
+    .mod1 
+    {
+        height:51em;
+        display:block;
+    }
+    .mod1 img 
+    {
+        width:100%;
+    }
+    .sti 
+    {
+        width:88%;
+    }
+    .amo1 
+    {
+        width:100%;
+    }
+    .team1 h4 
+    {
+        justify-content: center;
+    }
+    .team1 h5 
+    {
+        justify-content: center;
+    }
+    .Main1
+    {
+        height:82em;
+    }
+    /* .pf1 
+    {
+        width:100%;
+    } */
+    .main_sec1 
+    {
+        width:100%;
+        height:81em;
+    }
+    .go1 
+    {
+        height:81em;
+        justify-content: center;
+    }
+    .gre1
+    {
+        height:80em;
+
+        width: 94%;
+        display: block;
+    }
+    .prod1_1 
+    {
+        width: 86%;
+        margin-left: 27px;
+    margin-top: 17px;
+    margin-bottom: 17px;
+    }
+    .shop1_1 
+    {
+        display:block;
+    }
+    .sho3 
+    {
+        height:7em;
+    }
+    .Main2
+    {
+        height:72em;
+    }
+    /* .pf1 
+    {
+        width:100%;
+    } */
+    .main_sec2 
+    {
+        width:100%;
+        height:81em;
+    }
+    .go2 
+    {
+        height:81em;
+        justify-content: center;
+    }
+    .gre2
+    {
+        height:80em;
+
+        width: 94%;
+        display: block;
+    }
+    .prod1_2
+    {
+        width: 86%;
+        margin-left: 27px;
+    margin-top: 17px;
+    margin-bottom: 17px;
+    }
+    .vish2 
+    {
+        height:60em;
+    }
+    .select2 
+    {
+        height:59em;
+    }
+    .sel2 
+    {
+        height:58em;
+    }
+    .sele2 
+    {
+        height:57em;
+        width:92%;
+    }
+    .mod2 
+    {
+        height:57em;
+        display:block;
+    }
+    .sti_3 
+    {
+        height:30em;
+        width:100%;
+    }
+    .sti2 
+    {
+        height:15em;
+        justify-content: center;
+        align-items: center;
+        margin-left: 36px;
+    }
+    .sti2 h4 
+    {
+        width:77%;
+    }
+    .vv1 
+    {
+        padding-left: 138px;
+    }
+    .cu 
+    {
+        justify-content: center;
+    }
+    .ct1 
+    {
+        width:49%;
+    }
+    .ct 
+    {
+        width:67%;
+    }
+    .pm 
+    {
+        width:100%;
+    }
+    .mod2 img 
+    {
+        width:80%;
+    }
+    .pk 
+    {
+        font-size:0.7em;
+    }
+    .mobile 
+    {
+        height: 30em;
+    }
+    .mobile1 
+    {
+        display:block;
+        height:30em;
+    }
+    .po1 
+    {
+        width: 83%;
+        margin-left: 36px;
+        margin-bottom: 22px;
+    }
+    .sebu1 
+    {
+        width:39%;
+    }
+    .gt 
+    {
+        font-size:0.7em;
+    }
+
+
+}
+
+
+
